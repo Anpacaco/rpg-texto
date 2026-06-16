@@ -1,9 +1,10 @@
 #Personagens
 - Héroi
 Vida:140
+Defesa:50
 Dano:60
 
 - Esqueleto
 Vida:20
 Defesa:10
-Dano:80
+Dano:70
